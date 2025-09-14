@@ -1,6 +1,6 @@
 # HmDebugMonitor
 
-![HmDebugMonitor v1.1.0](https://img.shields.io/badge/HmDebugMonitor-v1.1.0-6479ff.svg) ← ここをgithubのリリースから取得しては？
+![release latest](https://img.shields.io/github/v/release/komiyamma/HmDebugMonitor)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 ![Hidemaru 7.00](https://img.shields.io/badge/Hidemaru-v7.00-6479ff.svg)
 
